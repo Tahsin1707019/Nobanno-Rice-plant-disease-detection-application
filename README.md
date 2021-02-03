@@ -1,6 +1,6 @@
 Nobanno
 
-A Rice plant disease detection application.This application detects rice plant disease by analysis the picture of affected leaf.
+A Rice plant disease detection application.This application detects rice plant disease by analysing the picture of affected leaf.
 
 The tensorflow lite file for using in android studio 
 https://drive.google.com/file/d/1KrzmSPNXRLo_c-ogMrDjNr_9pyVnYW3C/view?usp=sharing
